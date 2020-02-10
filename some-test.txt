@@ -3,7 +3,7 @@
 function hello($my_name) {
     echo "Привет $my_name !!!";
     return 1;
-}
+}3333
 
 $name = 'Alex';
 hello('ewfsdfdsfdsfds');
