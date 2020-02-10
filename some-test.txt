@@ -13,3 +13,5 @@ hello($name);
 function sum($a, $b){
 return $a+$b;
 }
+echo sum(4, 5);
+echo sum(4, 5);
