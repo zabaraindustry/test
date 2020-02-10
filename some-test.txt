@@ -1,0 +1,11 @@
+<?php
+
+function hello($my_name) {
+    echo "Привет $my_name !!!";
+    return 1;
+}
+
+$name = 'Alex';
+hello('ewfsdfdsfdsfds');
+echo '<br>';
+hello($name);
