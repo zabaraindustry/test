@@ -9,3 +9,7 @@ $name = 'Alex';
 hello('ewfsdfdsfdsfds');
 echo '<br>';
 hello($name);
+
+function sum($a, $b){
+return $a+$b;
+}
